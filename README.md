@@ -1,6 +1,8 @@
 WikiSearch
 ==========
 
+[![Build Status](https://travis-ci.org/dharmeshkakadia/WikiSearch.svg)](https://travis-ci.org/dharmeshkakadia/WikiSearch)
+
 Wikipedia Search engine
 
 ##Build 
